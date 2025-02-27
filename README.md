@@ -36,14 +36,11 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 
 ## Highlighted Projects
 
-### 📊 [Data Visualization Project](https://github.com/yourusername/data-visualization)
-- A project showcasing various visualizations using Python libraries like Matplotlib and Seaborn.
-- Focused on making complex data more accessible through compelling visuals.
+### 📊 [Sales-Analysis for Monday Coffee with SQL](https://github.com/lakshmiharikaa34/Sales-Analysis-for-Monday-Coffee-with-SQL)
+- Analyzes the sales data of Monday Coffee to identify potential cities for new store openings in India.
+- Key analyses include estimating coffee consumers, total revenue, sales per product, and customer segmentation.
+- Recommends the top 3 cities based on consumer demand, sales performance, and market potential.
+- Uses SQL to clean, process, and analyze large datasets to extract actionable insights.
 
-### 🧮 [Statistics-Based Data Analysis](https://github.com/yourusername/statistics-analysis)
-- A repository featuring different statistical analysis methods applied to real-world datasets.
-- Includes regression models, hypothesis testing, and exploratory data analysis.
-
----
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing exciting data-driven projects!
