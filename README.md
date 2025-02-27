@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshmi Harika!
 
-### Masters in Statistics | Pondicherry University (2022-2024) | Python | EDA | SQL | PowerBI | R | Machine Learning|
+### Masters in Statistics | Pondicherry University (2022-2024) | Python | EDA | SQL | PowerBI | R | Machine Learning |
 
 
 Welcome to my GitHub profile! I’m a passionate data scientist with a solid background in Statistics and Data Science. Here’s a little more about me:
