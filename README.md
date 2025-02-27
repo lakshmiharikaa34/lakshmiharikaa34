@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 ---
 
 # Skills and Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
@@ -26,13 +25,14 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
+
+---
 
 ## Highlighted Projects
 
