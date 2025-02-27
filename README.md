@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 ---
 
 ## Skills and Tools
-<p align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   ![SPSS](https://img.shields.io/badge/SPSS-1F65B0?style=flat&logo=ibm&logoColor=white) 
@@ -30,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-0068C1?style=flat&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-FF6C37?style=flat&logo=seaborn&logoColor=white)
-</p>
+
 
 ---
 
