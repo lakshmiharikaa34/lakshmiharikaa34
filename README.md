@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
+![SPSS](https://img.shields.io/badge/SPSS-1F65B0?style=flat&logo=ibm&logoColor=white) 
 
 ## Highlighted Projects
 
