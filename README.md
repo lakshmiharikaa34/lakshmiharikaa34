@@ -42,5 +42,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 - Recommends the top 3 cities based on consumer demand, sales performance, and market potential.
 - Uses SQL to clean, process, and analyze large datasets to extract actionable insights.
 
+---
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing exciting data-driven projects!
