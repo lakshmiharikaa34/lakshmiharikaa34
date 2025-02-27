@@ -18,15 +18,15 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a solid bac
 ## Skills and Tools
 <p align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-0078D4?style=flat&logo=microsoft-sql-server&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-  ![Polars](https://img.shields.io/badge/Polars-003B57?style=flat&logo=polars&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-7F36C0?style=flat&logo=powerbi&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=flat&logo=google-cloud&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0068C1?style=flat&logo=matplotlib&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-0078D4?style=flat&logo=microsoft-sql-server&logoColor=white) 
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+  ![Polars](https://img.shields.io/badge/Polars-003B57?style=flat&logo=polars&logoColor=white) 
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/Power%20BI-7F36C0?style=flat&logo=powerbi&logoColor=white) 
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=flat&logo=google-cloud&logoColor=white) 
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0068C1?style=flat&logo=matplotlib&logoColor=white) 
   ![Seaborn](https://img.shields.io/badge/Seaborn-FF6C37?style=flat&logo=seaborn&logoColor=white)
 </p>
 
